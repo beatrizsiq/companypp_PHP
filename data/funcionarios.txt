@@ -1,2 +1,0 @@
-Nome = Beatriz Siqueira Costa; CPF = 021.675.756-88; Crachá = 52; CEP = 39803197; Estado = MG; Cidade = Teófilo Otoni
---Fim--

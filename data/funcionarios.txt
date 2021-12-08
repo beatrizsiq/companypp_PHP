@@ -1,0 +1,2 @@
+Nome = fulano de tal; CPF = 123456789; Crachá = 5521; CEP = 899898989; Estado = MG; Cidade = Teófilo Otoni
+--Fim--

@@ -1,7 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-}
 
 /* Elementos com o ID "titulo" */
 #titulo {
@@ -49,13 +45,6 @@ button {
     margin-top: 4em;
     /* margin-left: 300px; */
     /* float: left; */
-}
-
-/* Elemento de classe "botao" com o estado da pseudoclasse "hover" */
-.botao:hover {
-    background: #a77524;
-    box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
-    text-shadow: none;
 }
 
 /* Elementos de classe botão e de tag <select> */
